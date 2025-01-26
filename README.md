@@ -1,0 +1,1 @@
+This repository demonstrates a common Kotlin error: an `IndexOutOfBoundsException` when iterating over a list. The `bug.kt` file contains code that produces this exception.  The `bugSolution.kt` file shows the corrected code.
